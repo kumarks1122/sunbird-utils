@@ -13,5 +13,9 @@
     <module>sunbird-notification</module>
     <module>sunbird-cache-utils</module>
     <module>notification-sdk</module>
+    <module>migration</module>
+    <module>uploader</module>
+    <module>template-migrator</module>
+    <module>gcp-pubsub</module>
   </modules>
 </project>
