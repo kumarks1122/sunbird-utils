@@ -16,6 +16,5 @@
     <module>migration</module>
     <module>uploader</module>
     <module>template-migrator</module>
-    <module>gcp-pubsub</module>
   </modules>
 </project>
